@@ -1,0 +1,2 @@
+Model,mae,rmse,mape,r2
+Lightgbm,30.95,43.55,0.51,0.71
